@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PetScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SudokuScene.unity
+    guid: b84b5afd1434b8d4b9b4bcf43f711e1e
+  - enabled: 0
+    path: Assets/Scenes/CalcScene.unity
+    guid: bef6a3c407e16084fa8cf6e1cb6a0b81
+  - enabled: 1
+    path: Assets/Scenes/MemoryScene.unity
+    guid: f986cb622a300454cb5a31f27fed5278
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: eadb1a3744a98824ebc71df9ad0e651b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 990fb96533609bb4eb2e2b6cbdd80750, type: 2}
