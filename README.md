@@ -3,6 +3,7 @@ Augmented Reality Game: Older Adults Companion
 Objective of the project:
 
   -Develop an AR mobile game for aimed at older adults.
+  
   -Name of mobile game: "Health Friend"
   -A virtual pet raising game with AR features accompanied by two puzzle minigames.
 
